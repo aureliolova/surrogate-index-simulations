@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "surrogate-index-simulations"
+version = "0.1.0"
+description = ""
+authors = ["aureliolova <aurelio.lopez@glovoapp.com>"]
+readme = "README.md"
+packages = [{include = "surrogate_index_simulations"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^2.1.2"
+pandas = "^2.2.3"
+networkx = "^3.4.1"
+matplotlib = "^3.9.2"
+statsmodels = "^0.14.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

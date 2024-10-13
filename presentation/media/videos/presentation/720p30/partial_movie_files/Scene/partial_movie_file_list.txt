@@ -1,6 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/aurelio.lopez/Documents/personal_repositories/surrogate-index-simulations/surrogate-index-simulations/presentation/media/videos/presentation/720p30/partial_movie_files/Scene/2016333726_2010785284_223132457.mp4'
-file 'file:/Users/aurelio.lopez/Documents/personal_repositories/surrogate-index-simulations/surrogate-index-simulations/presentation/media/videos/presentation/720p30/partial_movie_files/Scene/543634251_937925582_2358810818.mp4'
-file 'file:/Users/aurelio.lopez/Documents/personal_repositories/surrogate-index-simulations/surrogate-index-simulations/presentation/media/videos/presentation/720p30/partial_movie_files/Scene/543634251_2745381100_2592597020.mp4'
-file 'file:/Users/aurelio.lopez/Documents/personal_repositories/surrogate-index-simulations/surrogate-index-simulations/presentation/media/videos/presentation/720p30/partial_movie_files/Scene/543634251_3653134201_2526797339.mp4'
-file 'file:/Users/aurelio.lopez/Documents/personal_repositories/surrogate-index-simulations/surrogate-index-simulations/presentation/media/videos/presentation/720p30/partial_movie_files/Scene/543634251_1039154947_3756056501.mp4'

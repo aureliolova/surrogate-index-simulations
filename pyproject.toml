@@ -15,6 +15,7 @@ pandas = "^2.2.3"
 networkx = "^3.4.1"
 matplotlib = "^3.9.2"
 statsmodels = "^0.14.4"
+latex = "^0.7.0"
 
 
 [build-system]

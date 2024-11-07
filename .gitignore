@@ -1,1 +1,4 @@
 **/media
+**/*.csv
+**/*.pkl
+sensitive/
